@@ -4,9 +4,9 @@ The class organisation [here](https://github.com/Time-series-financial-econometr
 
 This is what the administrator can see.
 
-<figure class="video_container">
-  <iframe src="https://www.loom.com/share/d7522571754d49bf91bb1a400569fe74" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/d7522571754d49bf91bb1a400569fe74" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 
 
